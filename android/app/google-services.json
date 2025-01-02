@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939046670828",
+    "project_id": "sign-in-4301b",
+    "storage_bucket": "sign-in-4301b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939046670828:android:e4fa5db9113f86c14f30c9",
+        "android_client_info": {
+          "package_name": "com.example.fluter_login_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939046670828-agi61ngpq9jsfro88k230idnsadnfg35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGCLt4bJ5bOSepIOA3rK9iQWg_iJZjiLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939046670828-agi61ngpq9jsfro88k230idnsadnfg35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
